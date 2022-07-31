@@ -23,7 +23,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917561823024'] //ur owner number
+global.owner = ['94770611075'] //ur owner number
 global.ownername = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"//owner name
 global.ytname = "YT: ʜᴇʟʟ ʙᴏʏ" //ur yt chanel name
 global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
@@ -31,17 +31,17 @@ global.location = "India, Kerala, Idukki" //ur location
 
 //bot bombdy
 global.botname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur bot name
-global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
+global.websitex = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"//sticker pack name 
 global.author = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"//sticker pack author
 global.themeemoji = "❏"//use any emoji,icons
 global.reactmoji = "🌝"//any send menu,alive bot send react emoji
 global.ownertag = ['999999999'] //if you use this anyone tag owner number bot send a sticker(you don't need this eg: use 9999999),(if you need this use your owner number)
-global.ownernummenu = ['917561823024'] //ur owner number in menu and all
-global.botscript = "https://github.com/HELLBOY7561/HELL-BOY-MD-V3"
-global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
-global.linkz2 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
+global.ownernummenu = ['94770611075 '] //ur owner number in menu and all
+global.botscript = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
+global.linkz1 = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
+global.linkz2 = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
